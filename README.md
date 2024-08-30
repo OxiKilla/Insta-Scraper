@@ -19,3 +19,5 @@ Ensure you have the following Python packages installed:
 The auto-unfollow feature is BETA and is very dangerous.
 
 ![Screenshot 2024-08-30 040905](https://github.com/user-attachments/assets/7bf56da1-85aa-4cd4-a64a-09dec80adbf1)
+![immagine](https://github.com/user-attachments/assets/45e3f79c-c32b-4c82-8def-8a63aeecec15)
+
