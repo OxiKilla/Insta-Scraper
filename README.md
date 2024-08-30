@@ -1,13 +1,21 @@
 # Instagram Scraper
 
-## Descrizione
-Questo script Python utilizza la libreria **Instaloader** per recuperare informazioni sui profili Instagram. Il bot analizza i profili e stampa chi segui ma non ti segue indietro, con un effetto di stampa lettera per lettera per un'esperienza visiva interessante.
+## Description
+This Python script uses the **Instaloader** library to retrieve data from Instagram profiles. The bot analyzes profiles and prints out who you follow but who does not follow you back, with a letter-by-letter printing effect for a visually engaging experience.
 
-## Caratteristiche
-- Login a Instagram tramite Instaloader.
-- Recupero dei follower e dei profili che segui.
-- Identificazione degli utenti che segui ma che non ti seguono indietro.
-- Stampa dei risultati con effetti visivi colorati e animati.
-- Messaggi finali con effetto di animazione lettera per lettera.
+## Features
+- Login to Instagram using Instaloader.
+- Retrieve followers and profiles you follow.
+- Identify users you follow but who do not follow you back.
+- Print results with colored and animated visual effects.
+- Final message with a letter-by-letter animation effect.
+
+## Requirements
+Ensure you have the following Python packages installed:
+- **Instaloader**: For retrieving data from Instagram.
+- **Colorama**: For text coloring and visual effects.
+
+## Menu
+The auto-unfollow feature is BETA and is very dangerous.
 
 ![Screenshot 2024-08-30 040905](https://github.com/user-attachments/assets/7bf56da1-85aa-4cd4-a64a-09dec80adbf1)
