@@ -158,7 +158,7 @@ def main():
 
     # Prompt for credentials
     username = input("Enter your Instagram username: ")
-    password = input("Enter your Instagram password: ")
+    password = getpass.getpass("Enter your Instagram password: ")
 
     # Initialize Instaloader and login
     L = instaloader.Instaloader()
